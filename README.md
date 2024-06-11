@@ -1,0 +1,1 @@
+# My Typescript quick code snippets
